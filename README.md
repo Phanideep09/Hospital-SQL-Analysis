@@ -15,6 +15,11 @@ This project analyzes hospital data using SQL Server.
 - COUNT()
 - ORDER BY
 - TOP
+- HAVING query
+- Subquery
+- RANK()
+- ROW_NUMBER()
+- CASE
 
 ## Analysis Performed
 - Average stay by diagnosis
